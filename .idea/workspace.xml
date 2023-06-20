@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0dba872d-f85b-4552-b597-bb7eea795e2f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/9/19896392f4e9e05b7fcc3a9b30debabd2259ed73" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/8/58efbc1aa2d1d8483411485e40537c6303bac5e3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/c/7ccaa2fb30609ca01bbeca6519223785bbd08598" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/c/ac3e1555725512e9cd39c39120cd768bda4aa7b4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/b/db743ed5006c2f86acff6f2e6b2f1307e8341ee2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/9/19896392f4e9e05b7fcc3a9b30debabd2259ed73" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/8/58efbc1aa2d1d8483411485e40537c6303bac5e3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/c/7ccaa2fb30609ca01bbeca6519223785bbd08598" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/c/ac3e1555725512e9cd39c39120cd768bda4aa7b4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/b/db743ed5006c2f86acff6f2e6b2f1307e8341ee2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-server/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-server/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-server/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-server/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-server/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-server/src/main/java/com/husein/configserver/ConfigServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-server/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-server/src/test/java/com/husein/configserver/ConfigServerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discovery/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discovery/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discovery/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discovery/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discovery/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discovery/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discovery/src/main/java/com/husein/discovery/DiscoveryApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discovery/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discovery/src/test/java/com/husein/discovery/DiscoveryApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway/gateway/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway/gateway/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway/gateway/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway/gateway/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway/gateway/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway/gateway/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway/gateway/src/main/java/com/husein/gateway/GatewayApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway/gateway/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway/gateway/src/test/java/com/husein/gateway/GatewayApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/src/main/java/com/husein/school/SchoolApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/src/main/java/com/husein/school/client/StudentClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/src/main/java/com/husein/school/controller/SchoolController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/src/main/java/com/husein/school/model/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/src/main/java/com/husein/school/model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/src/main/java/com/husein/school/repository/SchoolRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/src/main/java/com/husein/school/response/FullSchoolResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/src/main/java/com/husein/school/service/SchoolService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student/src/main/java/com/husein/school/StudentApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student/src/main/java/com/husein/school/controller/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student/src/main/java/com/husein/school/model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student/src/main/java/com/husein/school/repository/StudentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student/src/main/java/com/husein/school/service/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student/src/main/resources/application.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/school/pom.xml" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2RQWe3pVGy1Lg3wSC3BJcVQAmok" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/hussein/Desktop/micro-service/gateway/gateway/pom.xml",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
+    "spring.configuration.checksum": "3ededfa6bec33b4e7b2a3bcb973e69a1",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.husein.school.model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/school/src/main/java/com/hussein/school" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.StudentApplication">
+    <configuration name="ConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="config-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.husein.configserver.ConfigServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiscoveryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="discovery" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.husein.discovery.DiscoveryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.husein.gateway.GatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SchoolApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="school" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.husein.school.SchoolApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SchoolApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="school" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hussein.school.SchoolApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="student" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.husein.school.StudentApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.husein.school.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="software.aws.toolkits.jetbrains.core.execution.JavaAwsConnectionExtension">
+        <option name="credential" />
+        <option name="region" />
+        <option name="useCurrentConnection" value="false" />
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.StudentApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0dba872d-f85b-4552-b597-bb7eea795e2f" name="Changes" comment="" />
+      <created>1687182881332</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687182881332</updated>
+      <workItem from="1687182882618" duration="2996000" />
+      <workItem from="1687187972507" duration="750000" />
+      <workItem from="1687189084310" duration="7798000" />
+      <workItem from="1687200624148" duration="6921000" />
+      <workItem from="1687268358930" duration="7631000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
